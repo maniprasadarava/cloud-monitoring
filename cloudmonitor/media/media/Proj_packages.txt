@@ -1,0 +1,118 @@
+				Proj 16
+
+1.pip install sklearn
+2.pip install seaborn
+
+Conditions:
+Tomorrows date have to be given
+Duration  - 1:21:22(have to be given in this formate)
+
+status :completed
+				Proj 18
+
+
+Download nltk
+1. NLTK
+(URL to download nltk for windows: https://www.youtube.com/watch?v=Qu8pob9RX64)
+					or  
+In cmd type pyhton
+>>import nltk
+>>nltk.download()
+
+2. Symptomes should be given this
+fever,nose running,head ache,cough
+
+status :completed
+
+				Proj 17
+
+
+1. install pandar-datareader
+pip install pandas-datareader.
+2.pip install pandas
+3.pip install matplotlib
+
+status :completed
+
+				Proj 4
+
+
+status : Completed
+
+				Proj 6
+
+
+1.pip install mysql-connector
+Accuracy reason to ask
+
+status : Completed
+
+				Proj 7
+
+Regsitration problem occurs frequently
+Cannot Reister to AdAgency
+Status :Success
+
+				Proj 8
+
+
+Error 
+Sklearn cannot be installed
+
+But running successfully in other systems.
+				Proj 9
+
+
+1. pip install pillow
+2.pip install nltk
+3.pip install opencv-python
+4.pip install matplotlib
+
+Status:completed
+
+				Proj 10
+
+
+Status: Completed
+
+				Proj 20
+
+
+Status: Completed
+
+				Proj 11
+
+User cannot search for books
+Status: Success
+
+				Proj 12
+
+1.pip install tweepy
+
+Error 
+Sklearn cannot be installed
+
+				Proj 13
+
+Still pending
+
+				Proj 14
+
+1. pip install djangorestframework
+2. pip install django-cors-headers
+
+Status: Completed
+
+
+
+
+17
+16
+18
+4
+6
+7
+9
+10
+20
+11
